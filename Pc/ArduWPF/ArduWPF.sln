@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArduWPF", "ArduWPF.csproj", "{13DBF5EB-B5B1-4FD0-8221-694677AE4A02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13DBF5EB-B5B1-4FD0-8221-694677AE4A02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13DBF5EB-B5B1-4FD0-8221-694677AE4A02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13DBF5EB-B5B1-4FD0-8221-694677AE4A02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13DBF5EB-B5B1-4FD0-8221-694677AE4A02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F432D8F-E4F8-4781-AF54-41CE2D8736B3}
+	EndGlobalSection
+EndGlobal
